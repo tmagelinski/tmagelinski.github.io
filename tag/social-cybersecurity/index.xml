@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Cybersecurity | Tom Magelinski</title>
+    <link>/tag/social-cybersecurity/</link>
+      <atom:link href="/tag/social-cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Cybersecurity</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Social Cybersecurity</title>
+      <link>/tag/social-cybersecurity/</link>
+    </image>
+    
+    <item>
+      <title>Canadian Federal Election and Hashtags that Do Not Belong</title>
+      <link>/publication/canada_hashtags/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/canada_hashtags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph-Hist: Graph Classification from Latent Feature Histograms with Application to Bot Detection</title>
+      <link>/publication/graph_hist/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/graph_hist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interoperable pipelines for social cyber-security: Assessing Twitter information operations during NATO Trident Juncture 2018</title>
+      <link>/publication/pipelines/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pipelines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

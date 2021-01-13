@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Tom Magelinski</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Measuring Node Contribution to Community Structure with Modularity Vitality</title>
+      <link>/publication/mod_vitality/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mod_vitality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytic Models of Roll Call Voting Dynamics</title>
+      <link>/publication/rollcall_dynamics/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rollcall_dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interoperable pipelines for social cyber-security: Assessing Twitter information operations during NATO Trident Juncture 2018</title>
+      <link>/publication/pipelines/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pipelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community-based time segmentation from network snapshots</title>
+      <link>/publication/community_segments/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/community_segments/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

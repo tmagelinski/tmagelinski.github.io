@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Networks | Tom Magelinski</title>
+    <link>/tag/machine-learning-on-networks/</link>
+      <atom:link href="/tag/machine-learning-on-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning on Networks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Machine Learning on Networks</title>
+      <link>/tag/machine-learning-on-networks/</link>
+    </image>
+    
+    <item>
+      <title>Graph-Hist: Graph Classification from Latent Feature Histograms with Application to Bot Detection</title>
+      <link>/publication/graph_hist/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/graph_hist/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

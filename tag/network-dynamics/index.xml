@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Dynamics | Tom Magelinski</title>
+    <link>/tag/network-dynamics/</link>
+      <atom:link href="/tag/network-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Network Dynamics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Network Dynamics</title>
+      <link>/tag/network-dynamics/</link>
+    </image>
+    
+    <item>
+      <title>Artifacts of Crisis: Textual Analysis of Euromaidan</title>
+      <link>/publication/artifacts_of_crisis/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/artifacts_of_crisis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canadian Federal Election and Hashtags that Do Not Belong</title>
+      <link>/publication/canada_hashtags/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/canada_hashtags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytic Models of Roll Call Voting Dynamics</title>
+      <link>/publication/rollcall_dynamics/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rollcall_dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Disruption: Identifying Structural Changes in the Verkhovna Rada</title>
+      <link>/publication/disruption/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/disruption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community-based time segmentation from network snapshots</title>
+      <link>/publication/community_segments/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/community_segments/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
