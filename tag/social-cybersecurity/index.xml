@@ -5,12 +5,20 @@
     <link>/tag/social-cybersecurity/</link>
       <atom:link href="/tag/social-cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     <description>Social Cybersecurity</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Social Cybersecurity</title>
       <link>/tag/social-cybersecurity/</link>
     </image>
+    
+    <item>
+      <title>A Synchronized Action Framework for Responsible Detection of Coordination on Social Media</title>
+      <link>/publication/coordination_detection/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/coordination_detection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Canadian Federal Election and Hashtags that Do Not Belong</title>
