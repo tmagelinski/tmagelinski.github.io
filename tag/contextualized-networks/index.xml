@@ -5,12 +5,20 @@
     <link>/tag/contextualized-networks/</link>
       <atom:link href="/tag/contextualized-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Contextualized Networks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hudf62ee8f266d9026d0b05b03a856b5f8_283697_512x512_fill_lanczos_center_3.png</url>
       <title>Contextualized Networks</title>
       <link>/tag/contextualized-networks/</link>
     </image>
+    
+    <item>
+      <title>Contextualizing Online Conversational Networks</title>
+      <link>/publication/contextualizing_conversations/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/contextualizing_conversations/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contextualized Conversational Network Dynamics on Social Media</title>
