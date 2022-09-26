@@ -5,7 +5,7 @@
     <link>/tag/social-cybersecurity/</link>
       <atom:link href="/tag/social-cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     <description>Social Cybersecurity</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hudf62ee8f266d9026d0b05b03a856b5f8_283697_512x512_fill_lanczos_center_3.png</url>
       <title>Social Cybersecurity</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>A Synchronized Action Framework for Detection of Coordination on Social Media</title>
+      <link>/publication/coordination_detection_jots/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/coordination_detection_jots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Synchronized Action Framework for Responsible Detection of Coordination on Social Media</title>
-      <link>/publication/coordination_detection/</link>
+      <link>/publication/coordination_detection_workshop/</link>
       <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/coordination_detection/</guid>
+      <guid>/publication/coordination_detection_workshop/</guid>
       <description></description>
     </item>
     
