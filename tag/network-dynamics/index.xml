@@ -5,12 +5,20 @@
     <link>/tag/network-dynamics/</link>
       <atom:link href="/tag/network-dynamics/index.xml" rel="self" type="application/rss+xml" />
     <description>Network Dynamics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hudf62ee8f266d9026d0b05b03a856b5f8_283697_512x512_fill_lanczos_center_3.png</url>
       <title>Network Dynamics</title>
       <link>/tag/network-dynamics/</link>
     </image>
+    
+    <item>
+      <title>Contextualized Conversational Network Dynamics on Social Media</title>
+      <link>/publication/thesis/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contextualizing Online Conversational Networks</title>
